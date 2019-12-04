@@ -1,0 +1,4 @@
+{"Patente":"mmd 895","FechaEntrada":"03-11-19 23:35:53","FechaSalida":"03-11-19 23:37:05","Precio":"2"}
+{"Patente":"mmd 895","FechaEntrada":"03-11-19 23:35:53","FechaSalida":"03-11-19 23:40:10","Precio":"8"}
+{"Patente":"mmd 654","FechaEntrada":"03-11-19 23:45:05","FechaSalida":"03-11-19 23:45:15","Precio":"0"}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
