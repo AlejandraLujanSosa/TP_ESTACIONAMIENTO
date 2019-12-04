@@ -1,0 +1,70 @@
+{"Patente":"kze 398","FechaEntrada":"03-11-19 22:54:52","FechaSalida":"03-11-19 23:01:30","Precio":"12"}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":"dbe435","FechaEntrada":"25-11-19 00:15:48","FechaSalida":"25-11-19 00:20:59","Precio":"10"}
+{"Patente":"oli241","FechaEntrada":"25-11-19 00:24:30","FechaSalida":"25-11-19 00:25:44","Precio":"2"}
+{"Patente":"ode124","FechaEntrada":"26-11-19 21:15:04","FechaSalida":"26-11-19 21:15:11","Precio":"0"}
+{"Patente":"oli241","FechaEntrada":"25-11-19 00:24:30","FechaSalida":"26-11-19 21:26:18","Precio":"1262"}
+{"Patente":"kol567","FechaEntrada":"03-12-19191919 23:10:00","FechaSalida":"03-12-19 23:15:28","Precio":"328"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"03-12-19 23:23:50","Precio":"39385655.75"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:35:11","Precio":"39385762.775"}
+{"Patente":"lop562","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:35:35","Precio":"39385763.375"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:52:46","Precio":"393857891.5"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:56:52","Precio":"393857953"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:57:29","Precio":"262571974.83333"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:57:29","Precio":"262571974.83333"}
+{"Patente":"kol567","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 00:59:30","Precio":"1575431970"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:03:36","Precio":"1575432216"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:03:36","Precio":"1575432216"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:03:36","Precio":"1575432216"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:03:36","Precio":"1575432216"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:03:36","Precio":"1575432216"}
+{"Patente":"lop562","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:06:04","Precio":"1575432364"}
+{"Patente":"kol567","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:09:05","Precio":"1575432545"}
+{"Patente":"fgt210","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:13:57","Precio":"1575432837"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:22:23","Precio":"1575433343"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:22:23","Precio":"1575433343"}
+{"Patente":"lop562","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:23:49","Precio":"94526005740"}
+{"Patente":"kol567","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:27:09","Precio":"5671561064400"}
+{"Patente":"kol567","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:27:09","Precio":"5671561064400"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"31-12-69696969 21:00:00","Precio":"0"}
+{"Patente":"lop562","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"31-12-69696969 21:00:00","Precio":"0"}
+{"Patente":"asd456","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"31-12-69696969 21:00:00","Precio":"0"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"31-12-69696969 21:00:00","Precio":"0"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:41:51","Precio":"39385862.775"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"lop569","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:42:38","Precio":"39385863.95"}
+{"Patente":"fgt210","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:45:25","Precio":"39385868.125"}
+{"Patente":"dre256","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:51:38","Precio":"437620.86055556"}
+{"Patente":"fgt210","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:52:54","Precio":"437620.88166667"}
+{"Patente":"fgt210","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 01:53:25","Precio":"437620.89027778"}
+{"Patente":"gbv230","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 16:52:52","Precio":"437635.88111111"}
+{"Patente":"gbv230","FechaEntrada":"31-12-69696969 21:00:00","FechaSalida":"04-12-19 16:52:52","Precio":"437635.88111111"}
+{"Patente":"fxp862","FechaEntrada":"04-12-19191919 17:11:11","FechaSalida":"04-12-19 17:11:23","Precio":"480"}
+{"Patente":"fxp862","FechaEntrada":"04-12-19191919 17:11:11","FechaSalida":"04-12-19 17:11:23","Precio":"480"}
+{"Patente":"xsw157","FechaEntrada":"04-12-19191919 17:21:29","FechaSalida":"04-12-19 17:22:19","Precio":"2000"}
+{"Patente":"xsw157","FechaEntrada":"04-12-19191919 17:21:29","FechaSalida":"04-12-19 17:22:19","Precio":"2000"}
+{"Patente":"xsw157","FechaEntrada":"04-12-19191919 17:21:29","FechaSalida":"04-12-19 17:22:19","Precio":"2000"}
+{"Patente":"xsw157","FechaEntrada":"04-12-19191919 17:21:29","FechaSalida":"04-12-19 17:22:19","Precio":"2000"}

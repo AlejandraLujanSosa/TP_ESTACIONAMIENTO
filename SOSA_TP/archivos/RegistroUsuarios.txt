@@ -1,0 +1,13 @@
+{"Usuario":"lujan","Clave":"1234"}
+{"Usuario":"lujan","Clave":"4587"}
+{"Usuario":"raul","Clave":"2090"}
+{"Usuario":"raul","Clave":"2090"}
+{"Usuario":"lujan","Clave":"2890"}
+{"Usuario":"raul","Clave":"1214"}
+{"Usuario":"alejo","Clave":"0602"}
+{"Usuario":"alex","Clave":"1420"}
+{"Usuario":"vero","Clave":"2612"}
+{"Usuario":"lujan","Clave":"1290"}
+{"Usuario":"ale","Clave":"1587"}
+{"Usuario":"octavio","Clave":"octavio"}
+{"Usuario":"fabian","Clave":"1234"}
