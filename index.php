@@ -19,7 +19,7 @@
   <body background="https://media.istockphoto.com/photos/grey-gradient-abstract-background-for-background-or-wallpaper-your-picture-id853598200?k=6&m=853598200&s=170667a&w=0&h=zefhWQKtIKaiz2O5lr1NR704N8XVDugKutllNfyvm2g=">
 
 <?php 
-  include ('headers/header.php');
+  include ('headers/Header.php');
 
  ?>
     
