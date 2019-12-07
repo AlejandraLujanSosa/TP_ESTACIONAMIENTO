@@ -13,10 +13,10 @@ session_start();
     <link rel="icon" href="https://www.lincoln-offices.com/wp-content/uploads/2019/06/estacionamiento.png">
     <title>ESTACIONAMIENTO</title>
     <!-- Custom styles for this template -->
-    <link href="/SOSA_TP/ccs/bootstrap.min.css" rel="stylesheet">
+    <link href="/TP_ESTACIONAMIENTO/ccs/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/SOSA_TP/ccs/sticky-footer-navbar.css" rel="stylesheet">
+    <link href="/TP_ESTACIONAMIENTO/ccs/sticky-footer-navbar.css" rel="stylesheet">
   </head>
 
   <body background="https://media.istockphoto.com/photos/grey-gradient-abstract-background-for-background-or-wallpaper-your-picture-id853598200?k=6&m=853598200&s=170667a&w=0&h=zefhWQKtIKaiz2O5lr1NR704N8XVDugKutllNfyvm2g=">
@@ -26,34 +26,34 @@ session_start();
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="/SOSA_TP/index.php">Inicio</a>
+        <a class="navbar-brand" href="index.php">Inicio</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/paginas/Registro.php">Registrarse</a>
+              <a class="nav-link" href="paginas/Registro.php">Registrarse</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/Paginas/Login.php">Login</a>
+              <a class="nav-link" href="paginas/Login.php">Login</a>
             </li>
             <?php 
                 if (isset($_SESSION['usuario'])==1):
 
              ?>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/Paginas/IngresoVehiculo.php">Check-IN</a>
+              <a class="nav-link" href="paginas/IngresoVehiculo.php">Check-IN</a>
             </li>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/Paginas/Facturar.php">Check Out</a>
+              <a class="nav-link" href="paginas/Facturar.php">Check Out</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/Funciones/LeerVehiculos.php">Listar Vehiculos</a>
+              <a class="nav-link" href="funciones/LeerVehiculos.php">Listar Vehiculos</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/funciones/HacerLogout.php">Log-Out</a>
+              <a class="nav-link" href="funciones/HacerLogout.php">Log-Out</a>
             </li> 
             <li class="nav-item active">
               <a class="nav-link"> Usuario:<?php print_r($_SESSION['usuario']) ; ?></a>
@@ -63,10 +63,10 @@ session_start();
                 if ((isset($_SESSION['usuario'])==1) && ($_SESSION['admin'] == 1)):
             ?>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/funciones/LeerFacturados.php">Facturados</a>
+              <a class="nav-link" href="funciones/LeerFacturados.php">Facturados</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="/SOSA_TP/funciones/LeerUsuarios.php">Usuarios</a>
+              <a class="nav-link" href="funciones/LeerUsuarios.php">Usuarios</a>
             </li>
 
              <?php endif;  ?>         
