@@ -1,0 +1,43 @@
+<?php
+
+session_start();
+include '../AccesoDatos.php';
+
+$query =$BaseDeDatos->prepare("select nombre ,clave,admin from Usuarios");
+$query->execute();     
+$datos= $query->fetchAll(PDO::FETCH_ASSOC); 
+
+
+      foreach ($datos as $usuarios) 
+      {
+         if ($usuarios['nombre'] == $_GET['Usuario'])    
+            {
+                if ($usuarios['clave'] == $_GET['Clave'])
+                    {
+                        $_SESSION['usuario']=$usuarios['nombre'];
+                        $_SESSION['admin']=$usuarios['admin'];
+                        header("Location: ..\paginas\LoginOk.php?admin=".$usuarios['admin']);
+                        exit;
+                    } 
+                else
+                    {
+                      echo "Fallo clave";
+                     header("Location: ..\paginas\LoginNoOK.php");
+                     exit;
+
+                    }
+        
+            }
+          else
+            {
+            header("Location: ..\paginas\UsuarioInexistente.php");
+          }  
+       } 
+    
+  
+  
+
+
+  
+
+?>
