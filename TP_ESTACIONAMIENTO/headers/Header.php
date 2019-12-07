@@ -26,34 +26,34 @@ session_start();
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="index.php">Inicio</a>
+        <a class="navbar-brand" href="TP_ESTACIONAMIENTO/index.php">Inicio</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="../paginas/Registro.php">Registrarse</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/paginas/Registro.php">Registrarse</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="../paginas/Login.php">Login</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/paginas/Login.php">Login</a>
             </li>
             <?php 
                 if (isset($_SESSION['usuario'])==1):
 
              ?>
             <li class="nav-item active">
-              <a class="nav-link" href="../paginas/IngresoVehiculo.php">Check-IN</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/paginas/IngresoVehiculo.php">Check-IN</a>
             </li>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="../paginas/Facturar.php">Check Out</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/paginas/Facturar.php">Check Out</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="../funciones/LeerVehiculos.php">Listar Vehiculos</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/funciones/LeerVehiculos.php">Listar Vehiculos</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="../funciones/HacerLogout.php">Log-Out</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/funciones/HacerLogout.php">Log-Out</a>
             </li> 
             <li class="nav-item active">
               <a class="nav-link"> Usuario:<?php print_r($_SESSION['usuario']) ; ?></a>
@@ -63,10 +63,10 @@ session_start();
                 if ((isset($_SESSION['usuario'])==1) && ($_SESSION['admin'] == 1)):
             ?>
             <li class="nav-item active">
-              <a class="nav-link" href="../funciones/LeerFacturados.php">Facturados</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/funciones/LeerFacturados.php">Facturados</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="../funciones/LeerUsuarios.php">Usuarios</a>
+              <a class="nav-link" href="TP_ESTACIONAMIENTO/funciones/LeerUsuarios.php">Usuarios</a>
             </li>
 
              <?php endif;  ?>         
