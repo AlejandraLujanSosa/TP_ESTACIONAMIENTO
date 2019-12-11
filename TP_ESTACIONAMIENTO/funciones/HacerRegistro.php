@@ -11,5 +11,5 @@ $miobjeto->Clave=$_GET['Clave'];
 $query =$BaseDeDatos->prepare("INSERT INTO Usuarios (nombre,clave) VALUES ('$miobjeto->Usuario','$miobjeto->Clave')");
 $query->execute();	
 
-header("Location:TP_ESTACIONAMIENTO\paginas\RegistroOK.php");
+header("Location:\paginas\RegistroOK.php");
 ?>
