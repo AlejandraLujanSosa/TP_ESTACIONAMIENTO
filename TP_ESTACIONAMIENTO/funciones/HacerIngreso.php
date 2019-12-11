@@ -2,7 +2,7 @@
 
 session_start();
 
-include '../AccesoDatos.php';
+include '../DB/AccesoDatos.php';
 $miobjeto=new stdClass();
 $miobjeto->Patente=$_GET['Patente'];
 date_default_timezone_set("America/Argentina/Buenos_Aires");

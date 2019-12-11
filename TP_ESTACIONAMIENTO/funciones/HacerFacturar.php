@@ -5,7 +5,7 @@ session_start();
 
 $bandera=0;
 
-include '../AccesoDatos.php';
+include '../DB/AccesoDatos.php';
 $archivo=fopen('../archivos/VehiculosIngresos.txt','r');
 date_default_timezone_set("America/Argentina/Buenos_Aires");
 $Objeto=new stdClass();

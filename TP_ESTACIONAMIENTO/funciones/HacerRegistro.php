@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-include '../AccesoDatos.php';
+include '../DB/AccesoDatos.php';
 
 $miobjeto = new stdClass();
 $miobjeto->Usuario=$_GET['Usuario'];

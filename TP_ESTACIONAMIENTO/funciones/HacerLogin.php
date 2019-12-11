@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-include '../AccesoDatos.php';
+include '../DB/AccesoDatos.php';
 
 $query =$BaseDeDatos->prepare("select nombre ,clave,admin from Usuarios");
 $query->execute();     

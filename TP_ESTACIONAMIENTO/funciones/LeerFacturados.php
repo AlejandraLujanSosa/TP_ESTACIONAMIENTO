@@ -11,7 +11,7 @@ session_start();
     <title>Facturados</title>
     <?php
      include('../headers/Header.php'); 
-    include ('../AccesoDatos.php');
+    include ('../DB/AccesoDatos.php');
     ?>
 
     </head>

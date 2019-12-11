@@ -11,7 +11,7 @@ session_start();
 
     <?php 
     include('../headers/Header.php');
-     include ('../AccesoDatos.php'); 
+     include ('../DB/AccesoDatos.php'); 
       ?>
     </head>
 
