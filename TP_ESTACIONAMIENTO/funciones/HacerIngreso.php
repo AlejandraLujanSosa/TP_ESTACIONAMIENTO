@@ -24,17 +24,17 @@ if (strlen($_GET['Patente']) == 6)
 							$query =$BaseDeDatos->prepare("insert into Vehiculos (patente,hora_ingreso) values ('$miobjeto->Patente','$miobjeto->Horario')");
 							$query->execute();			
 
-							header("Location: ..\paginas\VehiculoOK.php");
+							header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoOK.php");
 						}
 					else
 						{
-							header("Location: ..\paginas\VehiculoNoOK.php");
+							header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");
 
 						}	
 				}		 
 			else
 				{
-					header("Location: ..\paginas\VehiculoNoOK.php");
+					header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");
 				}		
 		
 	}
@@ -51,26 +51,26 @@ else
 			 						$query =$BaseDeDatos->prepare("insert into Vehiculos (patente,hora_ingreso) values ('$miobjeto->Patente','$miobjeto->Horario')");
 									$query->execute();			
 
-									header("Location: ..\paginas\VehiculoOK.php");
+									header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoOK.php");
 			 					}
 			 				else
 			 					{
-			 						header("Location: ..\paginas\VehiculoNoOK.php");			
+			 						header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");			
 			 					}	
 			 			}
 			 		else
 			 			{
-			 				header("Location: ..\paginas\VehiculoNoOK.php");
+			 				header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");
 			 			}	
 			 	}
 			 else
 			 	{
-			 		header("Location: ..\paginas\VehiculoNoOK.php");
+			 		header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");
 			 	}	
 		}
 	else
 		{
-			 header("Location: ..\aginas\VehiculoNoOK.php");
+			 header("Location: TP_ESTACIONAMIENTO\paginas\VehiculoNoOK.php");
 		}
 
 	}

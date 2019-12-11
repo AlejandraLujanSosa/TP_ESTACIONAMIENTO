@@ -16,13 +16,13 @@ $datos= $query->fetchAll(PDO::FETCH_ASSOC);
                     {
                         $_SESSION['usuario']=$usuarios['nombre'];
                         $_SESSION['admin']=$usuarios['admin'];
-                        header("Location: ..\paginas\LoginOk.php?admin=".$usuarios['admin']);
+                        header("Location: TP_ESTACIONAMIENTO\paginas\LoginOk.php?admin=".$usuarios['admin']);
                         exit;
                     } 
                 else
                     {
                       echo "Fallo clave";
-                     header("Location: ..\paginas\LoginNoOK.php");
+                     header("Location: TP_ESTACIONAMIENTO\paginas\LoginNoOK.php");
                      exit;
 
                     }
@@ -30,7 +30,7 @@ $datos= $query->fetchAll(PDO::FETCH_ASSOC);
             }
           else
             {
-            header("Location: ..\paginas\UsuarioInexistente.php");
+            header("Location: TP_ESTACIONAMIENTO\paginas\UsuarioInexistente.php");
           }  
        } 
     
