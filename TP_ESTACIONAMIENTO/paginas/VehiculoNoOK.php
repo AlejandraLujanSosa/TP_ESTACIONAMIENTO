@@ -8,7 +8,7 @@ session_start();
 
 
     <title>Bienvenido</title>
-    <?php include('..\Headers\Header.php'); ?>
+    <?php include('..\headers\Header.php'); ?>
 
   </head>
 

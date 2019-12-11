@@ -17,8 +17,8 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIzGPwbseSb45L5ydnZbeute7-lJ8jLKT8Rq_nmJ7tbUjgbfr&s"
          height="100" align="middle">
       </center>
-      <p class="lead">Gracias por ser parte de nuestra comunidad</p>
-      <p class="lead">Haga click en LOGIN para registrar su vehiculo</p>
+      <p class="lead"><center>Gracias por ser parte de nuestra comunidad</center></p>
+      <p class="lead"><center>Haga click en LOGIN para registrar su vehiculo</center></p>
     </main>
 
     

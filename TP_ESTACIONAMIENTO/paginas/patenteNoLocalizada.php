@@ -27,7 +27,7 @@ session_start();
         <br>
         
           <div align="center"><h1>Ingresar nuevamente la patente</h1>
-          <div align="center"><a href="../paginas/facturar.php"><h2>Buscar</h2></a>
+          <div align="center"><a href="TP_ESTACIONAMIENTO/paginas/Facturar.php"><h2>Buscar</h2></a>
 
     </main>
       

@@ -10,14 +10,14 @@ session_start();
     <meta name="author" content="">
     <link rel="icon" href="../favicon.ico">
 
-    <title>Istic2019</title>
+    <title></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="TP_ESTACIONAMIENTO/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="../css/sticky-footer-navbar.css" rel="stylesheet">
+    <link href="TP_ESTACIONAMIENTO/css/sticky-footer-navbar.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="../css/floating-labels.css" rel="stylesheet">
+    <link href="TP_ESTACIONAMIENTO/css/floating-labels.css" rel="stylesheet">
 
   </head>
 
@@ -34,11 +34,7 @@ body {
 
   <body>
 
-    <header>
-    <?php
-        include "../componentes/menu.php";
-    ?>
-    </header>
+    
 
     <!-- Begin page content -->
     <main role="main" class="container">
@@ -50,10 +46,10 @@ body {
         <br>
         
           <div align="center"><h1>Acceso a Facturación</h1>
-          <div align="center"><a href="../paginas/HacerFacturar.php"><h2>Facturar</h2></a>
+          <div align="center"><a href="TP_ESTACIONAMIENTO/funciones/HacerFacturar.php"><h2>Facturar</h2></a>
 
           <div align="center"><h1>Ingresar Nueva Patente</h1>
-          <div align="center"><a href="../paginas/IngresoVehiculo.php"><h2>Ingresar</h2></a>
+          <div align="center"><a href="TP_ESTACIONAMIENTO/paginas/IngresoVehiculo.php"><h2>Ingresar</h2></a>
 
     </main>
       

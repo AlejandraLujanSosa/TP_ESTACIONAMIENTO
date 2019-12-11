@@ -15,7 +15,7 @@
       <h1 align="center">Registro<h1>
         <br>
 
-              <form action="..\funciones\HacerRegistro.php" class="text-center" method="GET">
+              <form action="TP_ESTACIONAMIENTO\funciones\HacerRegistro.php" class="text-center" method="GET">
                 <p align= "center">Usuario:</p>
                 <input type="text" name="Usuario" value="" text-align="center">
                 <p align="center">Clave:</p>

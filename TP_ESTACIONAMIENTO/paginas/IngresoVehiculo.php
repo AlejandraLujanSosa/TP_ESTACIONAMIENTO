@@ -13,7 +13,7 @@
 
       <h1>Ingresar vehiculo<h1>
         
-        <form action="../funciones/HacerIngreso.php" class="text-center">
+        <form action="TP_ESTACIONAMIENTO/funciones/HacerIngreso.php" class="text-center">
                 <p align= "center">Patente:</p>
                 <input type="text" name="Patente" value="" text-align="center">
                 <br><br>

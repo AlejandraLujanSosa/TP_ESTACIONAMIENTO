@@ -17,7 +17,7 @@
 
       <h1 align="center">Login<h1>
         <br>        
-          <form action="../funciones/HacerLogin.php" class="text-center">
+          <form action="TP_ESTACIONAMIENTO/funciones/HacerLogin.php" class="text-center">
                 <p align= "center">Usuario</p>
                 <input type="text" name="Usuario" value="" placeholder="Ingrese su usuario aqui">
                 <p align="center">Clave</p>
