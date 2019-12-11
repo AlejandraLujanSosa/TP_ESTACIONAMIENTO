@@ -1,13 +1,13 @@
 <?php
 
-session_start();
-
+session_start(); 
 
 $bandera=0;
 
  include('../headers/Header.php'); 
-include '../DB/AccesoDatos.php';
-$archivo=fopen('/TP_ESTACIONAMIENTO/archivos/VehiculosIngresos.txt','r');
+
+
+$archivo=fopen('../archivos/VehiculosIngresos.txt','r');
 date_default_timezone_set("America/Argentina/Buenos_Aires");
 $Objeto=new stdClass();
 $HoraSalida=mktime();
@@ -63,7 +63,7 @@ foreach ($datos as $vehiculos)
 $query =$BaseDeDatos->prepare("insert into facturados (patente,fecha_ingreso,fecha_salida,importe) values ('$Objeto->Patente','$Objeto->FechaEntrada','$Objeto->FechaSalida','$Objeto->Precio')");
 $query->execute();    
           
-          header("location:/TP_ESTACIONAMIENTO/paginas/FacturarOK.php?Precio=$Objeto->Precio&FechaEntrada=$Objeto->FechaEntrada&Patente=".$vehiculos['patente']."&FechaSalida=$Objeto->FechaSalida");   
+          header("location:../paginas/FacturarOK.php?Precio=$Objeto->Precio&FechaEntrada=$Objeto->FechaEntrada&Patente=".$vehiculos['patente']."&FechaSalida=$Objeto->FechaSalida");   
 
   
         }  
@@ -72,7 +72,7 @@ $query->execute();
   } 
   if ($bandera==0)
 {
-  header("Location: TP_ESTACIONAMIENTO/paginas/patenteNoLocalizada.php");
+  header("Location: ../paginas/patenteNoLocalizada.php");
   exit();
 }
 

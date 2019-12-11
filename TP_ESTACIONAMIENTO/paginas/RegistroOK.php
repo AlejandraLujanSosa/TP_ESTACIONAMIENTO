@@ -6,16 +6,20 @@
 <html lang="es">
   <head>
     <title>Registro</title>
+     </head>
 
-    <?php include('../headers/Header.php'); ?> 
+    
        
     
-  </head>
+ 
 
   <body 
     background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxS8enFJl3D437JId2eMMF4YRkQ4XQiTk9OWbiOFyEYuJ0W6u&s">
+    
+    <?php include('../headers/Header.php'); ?> 
 
    
+      <main role="main" class="container">
       <h1 class="mt-5" align="center">SU REGISTRO FUE EXITOSO</h1>
       <center>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIzGPwbseSb45L5ydnZbeute7-lJ8jLKT8Rq_nmJ7tbUjgbfr&s"
