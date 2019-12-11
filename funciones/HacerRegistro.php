@@ -1,7 +1,7 @@
 <?php
 //echo "hola";
 //
-//session_start();
+session_start();
  include('../headers/Header.php'); 
  include 'AccesoDatos.php';
 
