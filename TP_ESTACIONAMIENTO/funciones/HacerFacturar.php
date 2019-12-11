@@ -24,7 +24,7 @@ foreach ($datos as $vehiculos)
         $bandera=1;  
         
           $HoraEntrada = $vehiculos['hora_ingreso'];
-          $FechaEntrada = Date("d-m-yyyy H:i:s",$vehiculos['hora_ingreso']);
+          $FechaEntrada = Date("d-m-y H:i:s",$vehiculos['hora_ingreso']);
           
           
 
