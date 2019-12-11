@@ -1,13 +1,15 @@
+<?php 
+    session_start()
+     ?>;
+
 <!doctype html>
 <html lang="es">
   <head>
     <title>Registro</title>
 
-    <?php 
-    session_start();
-    include('../headers/Header.php'); 
-    include '../DB/AccesoDatos.php';     
-     ?>
+    <?php include('../headers/Header.php'); ?> 
+       
+    
   </head>
 
   <body 
