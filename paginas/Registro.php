@@ -4,7 +4,10 @@
 <head>
     <title>Registro</title>
 
-     <?php include('../headers/Header.php'); 
+     <?php 
+     session_start();
+      include('../headers/Header.php'); 
+      include '../DB/AccesoDatos.php';
             
      ?>
     </head>
@@ -15,7 +18,7 @@
       <h1 align="center">Registro<h1>
         <br>
 
-              <form action="..\funciones\HacerRegistro.php" class="text-center" method="GET">
+              <form action="/funciones/HacerRegistro.php" class="text-center" method="GET">
                 <p align= "center">Usuario:</p>
                 <input type="text" name="Usuario" value="" text-align="center">
                 <p align="center">Clave:</p>
