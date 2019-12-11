@@ -9,7 +9,10 @@ session_start();
 <head>
     <title>Bienvenido</title>
 
-   <?php include('..\headers\Header.php'); 
+   <?php 
+   
+  include('../headers/Header.php'); 
+  include '../DB/AccesoDatos.php';
             
    ?>
   </head>

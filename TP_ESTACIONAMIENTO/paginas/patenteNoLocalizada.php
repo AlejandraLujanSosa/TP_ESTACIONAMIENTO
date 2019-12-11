@@ -8,7 +8,9 @@ session_start();
 
     <title>no Patente</title>
     <?php
-        include ("../headers/header.php");
+        
+    include('../headers/Header.php'); 
+    include '../DB/AccesoDatos.php';
     ?>
     
   </head>

@@ -4,8 +4,10 @@
 <head>
     <title>Facturacion</title>
 
-    <?php include('../headers/Header.php'); 
-            
+    <?php 
+    session_start();
+    include('../headers/Header.php'); 
+    include '../DB/AccesoDatos.php';   
      ?>
   </head>
 
