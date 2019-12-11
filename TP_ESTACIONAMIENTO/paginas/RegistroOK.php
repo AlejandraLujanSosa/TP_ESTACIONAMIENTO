@@ -4,19 +4,16 @@
 
 <!doctype html>
 <html lang="es">
-  <head>
+ <head>
     <title>Registro</title>
+   <?php include('../headers/Header.php'); ?>  
      </head>
 
     
-       
-    
- 
-
   <body 
     background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxS8enFJl3D437JId2eMMF4YRkQ4XQiTk9OWbiOFyEYuJ0W6u&s">
     
-    <?php include('../headers/Header.php'); ?> 
+    
 
    
       <main role="main" class="container">
