@@ -5,6 +5,7 @@ session_start();
 
 $bandera=0;
 
+ include('../headers/Header.php'); 
 include '../DB/AccesoDatos.php';
 $archivo=fopen('/TP_ESTACIONAMIENTO/archivos/VehiculosIngresos.txt','r');
 date_default_timezone_set("America/Argentina/Buenos_Aires");

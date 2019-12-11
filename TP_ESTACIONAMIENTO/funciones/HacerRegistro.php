@@ -1,6 +1,7 @@
 <?php
 
 session_start();
+ include('../headers/Header.php'); 
 include '../DB/AccesoDatos.php';
 
 $miobjeto = new stdClass();
