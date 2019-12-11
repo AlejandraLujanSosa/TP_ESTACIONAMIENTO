@@ -1,6 +1,4 @@
 <?php
-echo "hola";
-die();
 session_start();
  include('../headers/Header.php'); 
 include '../DB/AccesoDatos.php';
