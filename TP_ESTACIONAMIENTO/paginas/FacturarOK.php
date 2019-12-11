@@ -24,7 +24,7 @@
         $miobjeto->FechaSalida=$_GET['FechaSalida'];
         $miobjeto->Precio=$_GET['Precio'];        
 
-        $archivo=fopen('TP_ESTACIONAMIENTO/archivos/VehiculosFacturados.txt','a')or die ();
+        $archivo=fopen('../archivos/VehiculosFacturados.txt','a')or die ();
         fwrite($archivo,json_encode($miobjeto)."\n");
         fclose($archivo);
 

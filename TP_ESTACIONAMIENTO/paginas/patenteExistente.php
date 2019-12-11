@@ -46,10 +46,10 @@ body {
         <br>
         
           <div align="center"><h1>Acceso a Facturación</h1>
-          <div align="center"><a href="TP_ESTACIONAMIENTO/funciones/HacerFacturar.php"><h2>Facturar</h2></a>
+          <div align="center"><a href="../funciones/HacerFacturar.php"><h2>Facturar</h2></a>
 
           <div align="center"><h1>Ingresar Nueva Patente</h1>
-          <div align="center"><a href="TP_ESTACIONAMIENTO/paginas/IngresoVehiculo.php"><h2>Ingresar</h2></a>
+          <div align="center"><a href="../paginas/IngresoVehiculo.php"><h2>Ingresar</h2></a>
 
     </main>
       
